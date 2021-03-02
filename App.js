@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import {ThemeProvider} from 'react-native-elements';
-import {SafeAreaProvider} from 'react-native-safe-area-context'}
+import {SafeAreaProvider} from 'react-native-safe-area-context';
 
 export default function App() {
   return (
